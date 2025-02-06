@@ -1,0 +1,5 @@
+package com.couriermanagement.entity;
+
+public class Courier {
+
+}

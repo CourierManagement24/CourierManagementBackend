@@ -1,0 +1,5 @@
+package com.couriermanagement.dao;
+
+public interface AddressDao {
+
+}
